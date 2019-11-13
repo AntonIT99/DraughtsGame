@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Java\jre1.8.0_192\bin\javaw.exe" -jar Game.jar
